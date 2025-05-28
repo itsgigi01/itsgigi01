@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋 Soy Maria de los Angeles Gil</h1>
+<h1 align="center">Hola! 👋 Soy Gil, Maria de los Ángeles</h1>
 
 🎓 Estudiante de Ingeniería en Sistemas de Información   
 📍 Argentina
