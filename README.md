@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hola! 👋 Soy Maria de los Angeles Gil</h1>
 
-<!--
-**itsgigi01/itsgigi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas de Información   
+📍 Argentina
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologías que uso
+- ⚙️ Lenguaje principal: **Java**
+- 🌐 Aprendiendo: **React** y **Node.js**
+- 🛠️ Herramientas: Git, GitHub, Visual Studio Code
+
+---
+
+### 📈 GitHub Stats
+
+![Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsgigi01&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgigi01&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contacto
+📧 Email: itsmeangii01@gmail.com
+
+---
+
+### 💬 Sobre mí
+
+✨ ¡Siempre abierta a aprender algo nuevo!
