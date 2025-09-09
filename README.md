@@ -22,8 +22,3 @@
 ### 📫 Contacto
 📧 Email: itsmeangii01@gmail.com
 
----
-
-### 💬 Sobre mí
-
-✨ ¡Siempre abierta a aprender algo nuevo!
